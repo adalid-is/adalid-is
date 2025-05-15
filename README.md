@@ -1,17 +1,27 @@
-<h1 align="center">Hi 👋, I'm alejandra</h1>
-<h3 align="center">A passionate frontend developer </h3>
+# 💫 About Me:
+🔭 I’m currently working on:<br>A web application using Blazor WebAssembly, focusing on dynamic filters, API integration, and UI components with Telerik for a seamless user experience.<br><br>👯 I’m looking to collaborate on:<br>Frontend or full-stack projects involving .NET, Blazor, C#, or accessible web design.<br><br>🤝 I’m looking for help with:<br>Advanced .NET architecture, design patterns, and improving performance in SPA applications.<br><br>🌱 I’m currently learning:<br>Web accessibility best practices, functional testing, and performance optimization in modern web apps.<br><br>💬 Ask me about:<br>Blazor WebAssembly, Telerik UI integration, API consumption in .NET, WordPress customization, or team collaboration with GitHub and Trello.<br><br>⚡ Fun fact:<br>I’m a self-taught developer who enjoys diving into complex technologies and turning ideas into clean, functional interfaces.<br><br>
 
-- 🔭 Actualmente estoy trabajando en: **el desarrollo de aplicaciones web con Blazor WebAssembly, enfocándome en crear interfaces interactivas y eficientes con Telerik UI y consumo de APIs.**
 
-- 🌱 I’m currently learning **mejores prácticas en accesibilidad web, pruebas funcionales y optimización de rendimiento en SPAs (Single Page Applications).**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alejandraadalid/) 
 
-- 👯 Estoy interesada en colaborar en: . **proyectos de desarrollo frontend y full stack donde se utilicen tecnologías como .NET, Blazor, C#, y accesibilidad web**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adalid-is&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adalid-is&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adalid-is&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🤝 Estoy buscando ayuda con: **seguir mejorando mis habilidades en arquitectura de software, patrones de diseño y desarrollo avanzado con .NET.**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adalid-is&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adalid-is&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=adalid-is&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
