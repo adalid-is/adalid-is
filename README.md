@@ -13,6 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adalid-is&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+
+pd :SEGUI PEGANDO Y COPIANDO Y QUE NADA TE FUNCIONES .. VP 
 ![](https://github-profile-trophy.vercel.app/?username=adalid-is&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
